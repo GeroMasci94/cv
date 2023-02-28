@@ -1,0 +1,150 @@
+* {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    padding: 10px;
+}
+
+.contenedor_img{
+    width: 100%;
+    height: 250px;
+    background-color: darkseagreen;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.contenedor_img div{
+    width: 250px;
+    height: 250px;
+}
+
+.contenedor_img div img{
+    width: 250px;
+    height: 250px;
+    object-fit: cover;
+}
+.nombre{
+    width: 100%;
+    height: 70px;
+    background-color: darkslategray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: aliceblue;
+}
+
+.profesion{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(97, 34, 97);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: darkseagreen;
+    font-weight: 10px;
+}
+
+.barra_datos{
+    width: 100%;
+    height: 170px;
+    background-color: darkseagreen;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: darkseagreen;
+}
+
+.acerca_de_mi{
+    width: 100%;
+    height: 150px;
+    background-color: darkseagreen;
+    display: flex;
+    align-items: center;
+}
+
+.exp_lab{
+    width: 100%;
+    height: 250px;
+    background-color: darkseagreen;
+    display: flex;
+    align-items: center;
+}
+
+.habilidades{
+    width: 100%;
+    height: 250px;
+    background-color: darkseagreen;
+    display: flex;
+    align-items: center;
+}
+
+.contacto{
+    width: 100%;
+    height: 250px;
+    background-color: darkseagreen;
+    display: flex;
+    align-items: center;
+}
+
+.icono_acerca{
+    width: 250px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(178, 118, 171);
+    margin: 0px 10px;
+}
+
+.icono_acerca img{
+    width: 100px;
+    height: 100px;
+}
+
+.exp_laboral{
+    width: 250px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(178, 118, 171);
+    margin: 0px 10px;
+}
+
+.exp_laboral img{
+    width: 100px;
+    height: 100px;
+}
+.habil{
+    width: 250px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(178, 118, 171);
+    margin: 0px 10px;
+}
+
+.habil img{
+    width: 100px;
+    height: 100px;
+}
+.contact{
+    width: 250px;
+    height: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: rgb(178, 118, 171);
+    margin: 0px 10px;
+}
+
+.contact img{
+    width: 100px;
+    height: 100px;
+}
+
